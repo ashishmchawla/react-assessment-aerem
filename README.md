@@ -14,7 +14,7 @@ A production-ready React + TypeScript project demonstrating:
 - Vite
 
 ## API Used
-`https://randomuser.me/api/?page=1&results=5
+https://randomuser.me/api/?page=1&results=5
 
 ## Features
 - Server-side pagination
