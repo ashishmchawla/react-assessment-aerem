@@ -1,0 +1,28 @@
+.previous, .next {
+  text-decoration: none; 
+  display: inline-block;
+  padding: 8px 16px; 
+  cursor: pointer; 
+  background-color: #f1f1f1;
+  color: black;
+  border-radius: 5px; 
+  margin: 5px; 
+}
+
+.previous:hover, .next:hover {
+  background-color: #ddd; 
+}
+
+.next {
+  background-color: #04AA6D; 
+  color: white;
+}
+
+.next:hover {
+  background-color: #059862; 
+}
+
+.notFound {
+    text-align: center;
+    font-size: 20px;
+}
